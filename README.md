@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, It's Samuel Medina</h1>
-<h3 align="center">A Informatics Engineering student in Mexico</h3>
+<h3 align="center">An Informatics Engineering student in Mexico</h3>
 
 - 🌱 I’m currently learning **JavaScript, Node and Algorithms**
 
